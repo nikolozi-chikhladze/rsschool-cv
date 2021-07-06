@@ -42,5 +42,5 @@ I've worked on multiple big projects:
 * GITA PHP Course
 * freeCodeCamp
 
-
-
+### Latest works:
+Due to the fact i'm working at the moment i rarely write some code on github for myself or my cv. Latest my project was a chess game written on **Python**. You can give it a look [on this link.](https://github.com/nikolozi-chikhladze/python-chess-game)
