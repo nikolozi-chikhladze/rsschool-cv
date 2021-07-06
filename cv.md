@@ -24,4 +24,23 @@ My **Goal** for this course is to fill the gap in my knowledge, find new contact
 * ELK
 * AWS
 
+### Experience:
+
+I've worked on multiple big projects:
+
+1. Dynamic CMS with multiple modules 
+    1. E-Commerce
+    2. HR
+    3. 3d design modeling
+2. Insurance system
+3. Medical software
+4. Mobile application startup using **Flutter**
+
+### Education:
+* Georgian-American University (GAU)
+* Udemy courses
+* GITA PHP Course
+* freeCodeCamp
+
+
 
